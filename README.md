@@ -1,5 +1,4 @@
 # JUMPY-NEAT
-Evolving AI agents to master a dynamic jump-based platformer using the NEAT algorithm.
 
 # Project Overview
 This repository showcases a mini-project developed for MML (Machine Learning) coursework, where we train an intelligent agent using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm to play a game inspired by Doodle Jump. The agent learns to survive and score better through generations of evolution in a dynamic platformer environment with gravity, moving platforms, and real-time decision-making.
