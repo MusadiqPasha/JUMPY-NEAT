@@ -80,12 +80,10 @@ Agents are rewarded based on:
   - Interpret agent behavior.
 
 
-### Screenshots
+### Screenshot
 
-<p align="center">
-  <img src="assets/jumpy_screenshot1.png" width="400"/>
-  <img src="assets/jumpy_screenshot2.png" width="400"/>
-</p>
+<img src="[assets/jumpy_screenshot1.png](https://github.com/MusadiqPasha/JUMPY-NEAT/blob/main/images/gif.gif)" width="400"/>
+
 
 
 ### Results & Future Work
