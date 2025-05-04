@@ -6,13 +6,15 @@ This repository showcases a mini-project developed for MML (Machine Learning) co
 We're building an AI agent that learns to play a vertical scrolling platformer game (inspired by Doodle Jump) using NeuroEvolution of Augmenting Topologies (NEAT). The goal is for the agent to survive as long as possible by intelligently jumping between platforms and avoiding falling.
 
 # Repository Structure
-- main.py # Core game loop and NEAT integration
-- W_078_079_087_089.ipynb # Notebook with experiments and analysis
-- requirements.txt # List of Python dependencies
-- config-5.txt # NEAT configuration file
-- JUMPY NEAT PPT.pdf # Final project presentation
-- README.md # This file
+```
 
+├── main.py # Core game loop and NEAT integration
+├── W_078_079_087_089.ipynb # Notebook with experiments and analysis
+├── requirements.txt # List of Python dependencies
+├── config-5.txt # NEAT configuration file
+├── JUMPY NEAT PPT.pdf # Final project presentation
+├── README.md # This file
+```
 ### NEAT Algorithm Summary
 
 - Evolves neural networks through evolutionary strategies.
