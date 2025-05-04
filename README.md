@@ -82,7 +82,7 @@ Agents are rewarded based on:
 
 ### Screenshot
 
-<img src="[assets/jumpy_screenshot1.png](https://github.com/MusadiqPasha/JUMPY-NEAT/blob/main/images/gif.gif)" width="400"/>
+<img src="https://github.com/MusadiqPasha/JUMPY-NEAT/blob/main/images/gif.gif" width="400"/>
 
 
 
